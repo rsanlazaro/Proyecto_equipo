@@ -1,1 +1,7 @@
 Esta es una modificación hecha por alguien que uso git clone https...
+
+*** ESTE ES LA SECCION QUE MODIFICÓ EL INTEGRANTE 1 ****
+
+SFAFDFDASFDSAFSD
+
+*** ESTE ES LA SECCION QUE MODIFICÓ EL INTEGRANTE 1 ****
